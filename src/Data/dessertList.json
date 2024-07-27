@@ -1,0 +1,56 @@
+[
+    {
+        "image": "https://images.pexels.com/photos/7440336/pexels-photo-7440336.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "Waffle",
+        "name": "Waffle with Berries",
+        "price": "6.50"
+    },
+    {
+        "image": "https://images.pexels.com/photos/2638026/pexels-photo-2638026.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "category": "Creme Brulee",
+        "name": "Vanilla Bean Creme Brulee",
+        "price": "7.00"
+    },
+    {
+        "image": "https://images.pexels.com/photos/4722023/pexels-photo-4722023.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "category": "Macaron",
+        "name": "Macaron Mix of Five",
+        "price": "8.00"
+    },
+    {
+        "image": "https://images.pexels.com/photos/14766327/pexels-photo-14766327.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "category": "Tiramisu",
+        "name": "Classic Tiramisu",
+        "price": "5.50"
+    },
+    {
+        "image": "https://images.pexels.com/photos/8681913/pexels-photo-8681913.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "category": "Baklava",
+        "name": "Pistachio Baklava",
+        "price": "4.00"
+    },
+    {
+        "image": "https://images.pexels.com/photos/6605346/pexels-photo-6605346.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "category": "Pie",
+        "name": "Lemon Meringue Pie",
+        "price": "5.00"
+    },
+    {
+        "image": "https://images.pexels.com/photos/17289681/pexels-photo-17289681/free-photo-of-still-life-with-a-layered-fruit-cake.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "category": "Cake",
+        "name": "Red Velvet Cake",
+        "price": "4.50"
+    },
+    {
+        "image": "https://images.pexels.com/photos/5386666/pexels-photo-5386666.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "category": "Brownie",
+        "name": "Salted Caramel Brownie",
+        "price": "5.50"
+    },
+    {
+        "image": "https://images.pexels.com/photos/11981160/pexels-photo-11981160.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "category": "Panna Cotta",
+        "name": "Vanilla Panna Cotta",
+        "price": "6.50"
+    }
+]
